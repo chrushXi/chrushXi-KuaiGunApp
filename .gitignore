@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+publish/
+installer/
+
+# IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Temp files
+installer_wizard.bmp
+installer_small.bmp
+
+# Website
+index.html
+
+# About
+AboutForm.cs
